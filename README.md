@@ -1,12 +1,12 @@
 # Turnos-Bancarios
 
-This template should help get you started developing with Vue 3 in Vite.
+Sistema básico para turnos bancarios o de caja.
 
-## Recommended IDE Setup
+## Configuración IDE recomendada
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Personalizar la configuración
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
